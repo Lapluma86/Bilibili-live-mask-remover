@@ -34,7 +34,7 @@
 
 ## 📬 联系我
 欢迎任何意见、问题或改进建议！
-- 👉 直接在 [Issues](https://github.com/Lapluma86/Bilibili-live-mask-remover/issues) 区留言
+- 👉 请在 [Issues](https://github.com/Lapluma86/Bilibili-live-mask-remover/issues) 区留言
 - 👉 提交 [Pull Request](https://github.com/Lapluma86/Bilibili-live-mask-remover/pulls) 改进功能或修复问题
 
 ## 📄 许可证
