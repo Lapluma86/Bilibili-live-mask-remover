@@ -20,7 +20,7 @@
 #### 手动安装
   1. 安装浏览器插件 [Tampermonkey](https://www.tampermonkey.net/)
   2. 打开 Tampermonkey 面板，点击【添加新脚本】
-  3. 删除默认代码，复制本仓库内 `Bilibili直播间马赛克遮罩自动移除.user.js` 内容，粘贴进去
+  3. 删除默认代码，复制本仓库内 `bilibili-live-mask-remover.user.js` 内容，粘贴进去
   4. 点击【文件 → 保存】或使用快捷键 `Ctrl+S` 保存并启用脚本
 
 ---
