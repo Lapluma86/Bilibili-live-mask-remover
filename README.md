@@ -15,7 +15,7 @@
 ## 🖥️ 安装方法
 #### 自动安装（推荐）
   1. 安装浏览器插件 [Tampermonkey](https://www.tampermonkey.net/)
-  2. 点击[这里](https://raw.githubusercontent.com/Lapluma86/Bilibili-live-mask-remover/main/Bilibili直播间马赛克遮罩自动移除.user.js)后会自动跳转至 Tampermonkey 脚本安装界面，点击【安装】按钮即可
+  2. 点击[这里](https://raw.githubusercontent.com/Lapluma86/Bilibili-live-mask-remover/main/bilibili-live-mask-remover.user.js)后会自动跳转至 Tampermonkey 脚本安装界面，点击【安装】按钮即可
 
 #### 手动安装
   1. 安装浏览器插件 [Tampermonkey](https://www.tampermonkey.net/)
